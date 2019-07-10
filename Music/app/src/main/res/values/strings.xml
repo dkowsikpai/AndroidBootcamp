@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="play_media_on_device">Play media on device</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+    <string name="volume">Volume</string>
+    <string name="music_from_internet">Music from internet</string>
+    <string name="play">PLAY</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basic Phraser</string>
+    <string name="basic_phraser">Basic Phraser</string>
+    <string name="button" />
+    <string name="volume">Volume</string>
+    <string name="do_you_10_speak_english">Do you\nspeak English</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="hello">Hello</string>
+    <string name="how_are_you">How are you</string>
+    <string name="i_live_in">I live in</string>
+    <string name="my_name_is">My name is</string>
+    <string name="please">Please</string>
+    <string name="welcome">Welcome</string>
+    <string name="stop">STOP</string>
+</resources>
